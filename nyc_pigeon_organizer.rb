@@ -23,6 +23,6 @@ data.each do |key1,value1|
 end
   
   
-  
+  new_hash 
   # write your code here!
 end
