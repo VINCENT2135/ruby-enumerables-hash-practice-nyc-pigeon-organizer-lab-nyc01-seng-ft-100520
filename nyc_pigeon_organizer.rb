@@ -3,7 +3,7 @@ def nyc_pigeon_organizer(data)
   people = []
 new_hash = {}
 
-pigeon_data.each do |key1,value1|
+data.each do |key1,value1|
   value1.each do |key2,value2|
    value2.each do |value3|
      
